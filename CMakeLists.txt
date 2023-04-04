@@ -21,4 +21,4 @@ install(TARGETS solver
 )
 
 # Дальше "передаём управление" CPack-у
-include(CPack.cmake)
+include(CPackConfig.cmake)
