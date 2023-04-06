@@ -3,7 +3,7 @@
 
 # Task 1
 
-We create 4 `CMakeLists.txt` for `formatter_ex_lib`, `formatter_lib` and `solver_application` respectively
+We create `CMakeLists.txt` for `formatter_ex_lib`, `formatter_lib` and `solver_application` respectively
 
 `CMakeLists.txt` contents for `formatter_ex_lib`:
 ```
